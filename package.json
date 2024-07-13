@@ -1,8 +1,13 @@
 {
-  "dependencies": {
-    "ws": "^8.17.0"
-  },
+  "name": "listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "dev": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
